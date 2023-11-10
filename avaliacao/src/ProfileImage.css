@@ -1,0 +1,49 @@
+body{
+background-color: #506266;
+
+}
+
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+
+}
+
+.categoria{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+
+}
+
+.descrição{
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.imagem{
+    width: 500px;
+    height: 300px;
+}
+*{
+    color: aliceblue;
+}
+
+.nome{
+    text-align: left;
+font-weight: bolder;
+font-size: 25px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.comentario{
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid rgba(0, 0, 0, 0.692);
+}
+img{
+    width:500px ;
+    height:500px ;
+}
